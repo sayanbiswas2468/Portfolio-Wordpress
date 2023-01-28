@@ -64,7 +64,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"d064eab51a"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"f411d53a7d"};</script>
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 			<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
 				<div class="clear"></div>

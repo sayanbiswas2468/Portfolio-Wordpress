@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Engineering</title>
+	<title>Uncategorized &#8211; Sayan (Portfolio)</title>
 	<atom:link href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sayanbiswas0408.github.io/Portfolio-Wordpress</link>
 	<description></description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-content/uploads/2023/02/cropped-WhatsApp-Image-2023-02-19-at-09.59.41-e1676781177906-32x32.jpg</url>
+	<title>Uncategorized &#8211; Sayan (Portfolio)</title>
+	<link>https://sayanbiswas0408.github.io/Portfolio-Wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://sayanbiswas0408.github.io/Portfolio-Wordpress/2023/01/22/hello-world/</link>

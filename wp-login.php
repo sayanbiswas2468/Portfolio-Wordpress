@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; Engineering &#8212; WordPress</title>
+	<title>Log In &lsaquo; Sayan (Portfolio) &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
@@ -11,7 +11,11 @@
 <link rel="stylesheet" id="login-css" href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-admin/css/login.min.css?ver=6.1.1" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-content/uploads/2023/02/cropped-WhatsApp-Image-2023-02-19-at-09.59.41-e1676781177906-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-content/uploads/2023/02/cropped-WhatsApp-Image-2023-02-19-at-09.59.41-e1676781177906-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-content/uploads/2023/02/cropped-WhatsApp-Image-2023-02-19-at-09.59.41-e1676781177906-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-content/uploads/2023/02/cropped-WhatsApp-Image-2023-02-19-at-09.59.41-e1676781177906-270x270.jpg">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
 		<div id="login">
@@ -46,7 +50,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/">&larr; Go to Engineering</a>		</p>
+			<a href="https://sayanbiswas0408.github.io/Portfolio-Wordpress/">&larr; Go to Sayan (Portfolio)</a>		</p>
 			</div>
 			<script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -64,7 +68,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"f411d53a7d"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"f0058b7b79"};</script>
 <script src="https://sayanbiswas0408.github.io/Portfolio-Wordpress/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 			<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
 				<div class="clear"></div>
